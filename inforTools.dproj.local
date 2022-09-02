@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/06 10:27:20.000.231,=C:\Users\Cleon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/07 13:15:52.000.522,=C:\Users\Cleon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/03 11:09:22.000.730,=C:\Users\Cleon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/03 11:13:12.000.041,C:\DelphiProjects\iTools\uMain.dfm=C:\Users\Cleon\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/03 11:13:12.000.041,C:\DelphiProjects\iTools\uMain.pas=C:\Users\Cleon\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/03 11:17:16.000.749,C:\DelphiProjects\iTools\inforTools.dproj=C:\Users\Cleon\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/03 11:37:09.000.743,=C:\DelphiProjects\iTools\Unit1.pas</Transaction>
+    <Transaction>2022/05/03 11:38:37.000.288,C:\DelphiProjects\iTools\uDM.dfm=C:\DelphiProjects\iTools\Unit1.dfm</Transaction>
+    <Transaction>2022/05/03 11:38:37.000.288,C:\DelphiProjects\iTools\uDM.pas=C:\DelphiProjects\iTools\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
